@@ -1,13 +1,20 @@
-Opencode
----------
+
 ![alt text](Logo.png)
-An Open Source Event
+
+> An Open Source Event
 
 ![alt text](Coming Soon Poster_2.jpg)
 
 Who is this event for
 ----
 Any student who is an undergraduate or postgraduate.
+
+Timeline 
+--------
+1. 01 jan 2017 project submissions start
+2. 17 jan 2017 event starts
+3. 17 feb 2017 event ends4
+4. 20 feb 2017 final declaration of winners
 
 Rules for new Project submission
 ----------------
@@ -30,12 +37,16 @@ Rules for old projects
 * Proper documentation for new users is expected.
 * Your project should have atl east 5 issues with the label opencode.
 
-General Instructions
+General Instructions for projects 
 --------
 
 * All issues should have label opencode a,b,c.
 * The label a,b,c will be put by the event organiser .
 * All code must be documented
+
+Insuctions foe contributers 
+----
+Comming soon 
 
 Scoring Criteria
 ----------------------
