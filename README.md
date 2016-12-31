@@ -3,6 +3,8 @@ Opencode
 ![alt text](Logo.png)
 An Open Source Event
 
+![alt text](Coming Soon Poster_2.jpg)
+
 Who is this event for
 ----
 Any student who is an undergraduate or postgraduate.
@@ -49,3 +51,15 @@ The corresponding issue will have the score for solving the issue. This would be
 Purpose of the Event
 ---------------------------
 To make students more aware of open source
+
+Contact Us
+---------------------------
+- Gautham Santhosh
+ * [Facebook](https://facebook.com/gauthamzz)
+ * [GitHub](https://github.com/gauthamzz)
+- Faheem Hassan Zunjani
+ * [Facebook](https://facebook.com/faheemzunjani)
+ * [GitHub](https://github.com/faheemzunjani)
+- Diwakar Vinay
+ * [Facebook](https://facebook.com/magician03)
+ * [GitHub](https://github.com/magician03)
