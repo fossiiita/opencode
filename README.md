@@ -72,6 +72,14 @@ Purpose of the Event
 ---------------------------
 To make students more aware of open source
 
+Sponsor us 
+-------
+If you wish to sponsor the event contact [Gautham](https://facebook.com/gauthamzz)
+
+Want to be an organizer
+------
+Just send a pr with your details and we will look into it.Organisers can participate in the event provided they dont rate the issues they solve.
+
 Contact Us
 ---------------------------
 - Gautham Santhosh
