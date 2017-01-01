@@ -13,8 +13,16 @@ Timeline
 --------
 1. 01 jan 2017 project submissions start
 2. 17 jan 2017 event starts
-3. 17 feb 2017 event ends4
+3. 17 feb 2017 event ends
 4. 20 feb 2017 final declaration of winners
+
+How this works 
+-----------
+
+* Participants will have to solve the issues and earn points. 
+* The one with the max points win after the event is over feb 17.
+* Only projects registered for the event can be solved to earn points. 
+
 
 Rules for new Project submission
 ----------------
@@ -51,14 +59,15 @@ Comming soon
 Scoring Criteria
 ----------------------
 
-Pr’s will be graded into three categories by the team. The grading will be done before the pr is send.  
-The corresponding issue will have the score for solving the issue. This would be done by the team.
+Isuues will be graded into three categories by the team. 
+The grading will be done before the pr is send.
 
 * Cat A 10 points
 * Cat B 20 points
 * Cat C 30 points
 * Cat D 00 points
 
+Eg multiple pr to awesome lists and readme will be cat D
 Purpose of the Event
 ---------------------------
 To make students more aware of open source
