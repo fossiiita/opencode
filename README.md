@@ -3,7 +3,7 @@
 
 > An Open Source Event
 
-![alt text](Coming Soon Poster_2.jpg)
+![alt text](https://fossiiita.github.io/opencode/Poster.jpg)
 
 Who is this event for
 ----
