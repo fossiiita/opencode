@@ -3,25 +3,27 @@
 
 > An Open Source Event
 
-![alt text](https://fossiiita.github.io/opencode/Poster.jpg)
 
 Who is this event for
 ----
 Any student who is an undergraduate or postgraduate.
 
-Timeline 
+Timeline
 --------
 1. 01 jan 2017 project submissions start
 2. 17 jan 2017 event starts
 3. 17 feb 2017 event ends
 4. 20 feb 2017 final declaration of winners
 
-How this works 
+
+![alt text](https://fossiiita.github.io/opencode/Poster.jpg)
+
+How this works
 -----------
 
-* Participants will have to solve the issues and earn points. 
+* Participants will have to solve the issues and earn points.
 * The one with the max points win after the event is over feb 17.
-* Only projects registered for the event can be solved to earn points. 
+* Only projects registered for the event can be solved to earn points.
 
 
 Rules for new Project submission
@@ -38,28 +40,35 @@ Rules for new Project submission
 
 
 Rules for old projects
---
+---------------------
 
 * Submit your project ideas [here](https://github.com/fossiiita/Projects/issues) with your project name as the issue title and put label project.
 * Your project idea should consist of a concise description of the project.
 * Proper documentation for new users is expected.
-* Your project should have atl east 5 issues with the label opencode.
+* Your project should have at least 5 issues with the label opencode.
 
-General Instructions for projects 
+General Instructions for projects
 --------
 
 * All issues should have label opencode a,b,c.
-* The label a,b,c will be put by the event organiser .
+* The label a,b,c will be put by the event organizer .
 * All code must be documented
 
-Insuctions for contributers 
-----
-Comming soon 
+Want to participate
+-----------------
+
+Fill this form and we will keep you posted.
+
+<!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="https://kaustubhshams.typeform.com/to/nDUY6H" data-text="OpenCode" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by<a href="https://www.typeform.com/examples/?utm_campaign=vq7M6d&amp;utm_source=typeform.com-6014802-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a></div>
+
 
 Scoring Criteria
 ----------------------
 
-Isuues will be graded into three categories by the team. 
+Issues will be graded into three categories by the team.
 The grading will be done before the pr is send.
 
 * Cat A 10 points
@@ -68,13 +77,6 @@ The grading will be done before the pr is send.
 * Cat D 00 points
 
 Eg multiple pr to awesome lists and readme will be cat D
-Purpose of the Event
----------------------------
-To make students more aware of open source
-
-Sponsor us 
--------
-If you wish to sponsor the event contact [Gautham](https://facebook.com/gauthamzz)
 
 Want to be an organizer
 ------
@@ -83,22 +85,15 @@ Want to be an organizer
 <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
 <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by<a href="https://www.typeform.com/examples/?utm_campaign=vq7M6d&amp;utm_source=typeform.com-6014802-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a></div>
 
-Just send a pr with your details and we will look into it.Organisers can participate in the event provided they dont rate the issues they solve.
+* If form not avaliable,Just send a pr with your details and we will look into it.
+* Organisers can participate in the event provided they dont rate the issues they solve.
+
+Sponsor us
+-------
+If you wish to sponsor the event contact [Gautham](https://facebook.com/gauthamzz)
 
 Contact Us
 ---------------------------
 - Gautham Santhosh
  * [Facebook](https://facebook.com/gauthamzz)
  * [GitHub](https://github.com/gauthamzz)
-- Faheem Hassan Zunjani
- * [Facebook](https://facebook.com/faheemzunjani)
- * [GitHub](https://github.com/faheemzunjani)
-- Diwakar Vinay
- * [Facebook](https://facebook.com/magician03)
- * [GitHub](https://github.com/magician03)
-- Mubaris Hassan
- * [Facebook](https://facebook.com/Mubaris.Hassan.7)
- * [Github](https://github.com/mubaris)
-- Himanshu Shekhar
- * [Facebook](https://facebook.com/himanshushekharb16)
- * [Github](https://github.com/himanshub16)
