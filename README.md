@@ -32,12 +32,14 @@ How this works
 Want to participate
 -----------------
 
-Fill this form and we will keep you posted.
+Fill this [form](https://goo.gl/JlltzF) and we will keep you posted.
 
 <!-- Change the width and height values to suit you best -->
 <div class="typeform-widget" data-url="https://kaustubhshams.typeform.com/to/nDUY6H" data-text="OpenCode" style="width:100%;height:500px;"></div>
 <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
 <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by<a href="https://www.typeform.com/examples/?utm_campaign=vq7M6d&amp;utm_source=typeform.com-6014802-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a></div>
+
+
 
 Have your own idea ?
 --------------------
@@ -76,12 +78,13 @@ Want to be an [Mentor or Organizer](https://fossiiita.github.io/opencode/organis
 <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
 <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by<a href="https://www.typeform.com/examples/?utm_campaign=vq7M6d&amp;utm_source=typeform.com-6014802-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a></div>
 
-* If form not avaliable,Just send a pr with your details and we will look into it.
+* If form not available click on [this](https://goo.gl/gmnQb8)
 * Organizers can participate in the event provided they don't rate the issues they solve.
+
 
 Contact Us
 ---------------------------
-Wanna sponsor the event / other queries? 
+Wanna sponsor the event / other queries?
 Contact [Gautham](https://facebook.com/gauthamzz) or [Connect on Gitter](https://gitter.im/opencode2017)
 
 - Gautham Santhosh
@@ -89,3 +92,5 @@ Contact [Gautham](https://facebook.com/gauthamzz) or [Connect on Gitter](https:/
  * [GitHub](https://github.com/gauthamzz)
 
 List of all organizers can be found [here.](https://fossiiita.github.io/opencode/organisers)
+
+[Frequently Asked Questions](https://fossiiita.github.io/opencode/faq)
