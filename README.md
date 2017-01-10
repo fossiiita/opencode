@@ -1,5 +1,5 @@
 
-![alt text](Logo.png)
+
 
 > An Open Source Event : A Mini [GSOC](https://en.wikipedia.org/wiki/Google_Summer_of_Code)
 
@@ -21,6 +21,8 @@ Timeline
 
 [Connect with us on Gitter](https://gitter.im/opencode2017)
 
+
+![alt text](Logo.png)
 
 <!-- ![alt text](https://fossiiita.github.io/opencode/Poster.jpg) -->
 
