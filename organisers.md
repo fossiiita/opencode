@@ -4,6 +4,9 @@ Mentors
 - Gautham Santhosh
  * [Facebook](https://facebook.com/gauthamzz)
  * [GitHub](https://github.com/gauthamzz)
+ - Kaustubh Shamshery
+ * [Facebook](https://www.facebook.com/kaustubh.shamshery)
+ * [Github](https://github.com/KaustubhShamshery)
 - Faheem Hassan Zunjani
  * [Facebook](https://facebook.com/faheemzunjani)
  * [GitHub](https://github.com/faheemzunjani)

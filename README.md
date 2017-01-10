@@ -50,8 +50,9 @@ Prizes will be given for (Both Cash as well as goodies):
 
 You will receive goodies and cash prizes worth 8k
 
-Only for iiita students:
+Only for IIITA students:
 Next year foss selections will be from this event. A minimum of 50 points to apply.
+
 Scoring Criteria
 ----------------------
 
@@ -83,4 +84,4 @@ If you wish to sponsor the event or have any queries contact [Gautham](https://f
  * [Facebook](https://facebook.com/gauthamzz)
  * [GitHub](https://github.com/gauthamzz)
 
-List of other organizers can be found [here.](https://fossiiita.github.io/opencode/organisers)
+List of all organizers can be found [here.](https://fossiiita.github.io/opencode/organisers)
