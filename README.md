@@ -22,7 +22,7 @@ Timeline
 [Connect with us on Gitter](https://gitter.im/opencode2017)
 
 
-![alt text](https://fossiiita.github.io/opencode/Poster.jpg)
+<!-- ![alt text](https://fossiiita.github.io/opencode/Poster.jpg) -->
 
 How this works
 -----------
@@ -44,10 +44,8 @@ Fill this [form](https://goo.gl/JlltzF) and we will keep you posted.
 
 
 
-Have your own idea ?
---------------------
-
-Have an idea for a projects look into [projects](https://fossiiita.github.io/opencode/projects)
+Do you have an idea for a project or want us to help you with your previous one?
+click [here](https://fossiiita.github.io/opencode/projects)
 
 Prizes
 ------
