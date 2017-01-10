@@ -16,6 +16,7 @@ Timeline
 4. 20 feb 2017 final declaration of winners
 
 
+![Connect with us on Gitter](https://gitter.im/opencode2017)
 ![alt text](https://fossiiita.github.io/opencode/Poster.jpg)
 
 How this works
