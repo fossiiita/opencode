@@ -17,6 +17,8 @@ Timeline
 
 
 [Connect with us on Gitter](https://gitter.im/opencode2017)
+
+
 ![alt text](https://fossiiita.github.io/opencode/Poster.jpg)
 
 How this works
@@ -80,7 +82,7 @@ Want to be an [Mentor or Organizer](https://fossiiita.github.io/opencode/organis
 Contact Us
 ---------------------------
 If you wish to sponsor the event or have any queries contact [Gautham](https://facebook.com/gauthamzz)
-
+Have something to discuss with us? [Connect on Gitter](https://gitter.im/opencode2017)
 - Gautham Santhosh
  * [Facebook](https://facebook.com/gauthamzz)
  * [GitHub](https://github.com/gauthamzz)
