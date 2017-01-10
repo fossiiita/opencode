@@ -1,3 +1,4 @@
+[Home](https://fossiiita.github.io/opencode)
 
 Rules for new Project submission (IDEAS)
 ----------------
@@ -27,3 +28,5 @@ General Instructions for projects
 * All issues should have label opencode a,b,c.
 * The label a,b,c will be put by the event organizer .
 * All code must be documented
+
+[Home](https://fossiiita.github.io/opencode)
