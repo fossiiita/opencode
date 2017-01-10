@@ -3,6 +3,9 @@
 
 > An Open Source Event : A Mini [GSOC](https://en.wikipedia.org/wiki/Google_Summer_of_Code)
 
+[![Join the chat at https://gitter.im/Cloud-CV/EvalAI](https://badges.gitter.im/opencode2017.svg)](https://gitter.im/opencode2017?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 Who is this event for
 ----
 Any student who is an undergraduate or postgraduate.

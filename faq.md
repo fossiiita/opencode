@@ -36,3 +36,7 @@ Yes, anyone can be a Mentor. You can fill the form you dont necessarily have to 
 > So more projects will be added ?
 
 Yes as the number of participants increase you can expect more projects and more issues.
+
+> I am stuck what should i do ?
+
+You can start by googling the problem. But even after a few tries its not helping please contact anyone who is a mentor or Organizer either via their facebook account or [Connect on Gitter](https://gitter.im/opencode2017). Feel free to disturb us. We are only here to help.
