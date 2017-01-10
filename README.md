@@ -1,8 +1,6 @@
 
 
 
-> An Open Source Event : A Mini [GSOC](https://en.wikipedia.org/wiki/Google_Summer_of_Code)
-
 [![Join the chat at https://gitter.im/Cloud-CV/EvalAI](https://badges.gitter.im/opencode2017.svg)](https://gitter.im/opencode2017?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
@@ -23,6 +21,8 @@ Timeline
 
 
 ![alt text](Logo.png)
+
+> An Open Source Event : A Mini [GSOC](https://en.wikipedia.org/wiki/Google_Summer_of_Code)
 
 <!-- ![alt text](https://fossiiita.github.io/opencode/Poster.jpg) -->
 
@@ -52,6 +52,7 @@ click [here](https://fossiiita.github.io/opencode/projects)
 Prizes
 ------
 Prizes will be given for (Both Cash as well as goodies):
+
 1. Top 5 Participants
 2. Participant with most points
 3. Grand prize winner : will be selected from the TOP 5 by the organizers.
