@@ -81,8 +81,8 @@ Want to be an [Mentor or Organizer](https://fossiiita.github.io/opencode/organis
 
 Contact Us
 ---------------------------
-If you wish to sponsor the event or have any queries contact [Gautham](https://facebook.com/gauthamzz)
-Have something to discuss with us? [Connect on Gitter](https://gitter.im/opencode2017)
+Wanna sponsor the event, other queries? 
+Contact [Gautham](https://facebook.com/gauthamzz) or [Connect on Gitter](https://gitter.im/opencode2017)
 
 - Gautham Santhosh
  * [Facebook](https://facebook.com/gauthamzz)
