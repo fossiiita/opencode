@@ -1,4 +1,4 @@
-Organizers
+Mentors
 ----------
 
 - Gautham Santhosh

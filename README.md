@@ -1,12 +1,12 @@
 
 ![alt text](Logo.png)
 
-> An Open Source Event
-
+> An Open Source Event : A Mini [GSOC](https://en.wikipedia.org/wiki/Google_Summer_of_Code)
 
 Who is this event for
 ----
 Any student who is an undergraduate or postgraduate.
+P.S : No institute restrictions are there.
 
 Timeline
 --------
@@ -26,34 +26,6 @@ How this works
 * Only projects registered for the event can be solved to earn points.
 
 
-Rules for new Project submission
-----------------
-
-* Submit your project ideas [here](https://github.com/fossiiita/Projects/issues) with your project name as the issue title and put label idea.
-* Your project idea should consist of a concise description of the project.
-* Your ideas can range from Web apps, Android apps to any other programming project.
-* Go through existing submissions before submitting your idea to avoid redundancy.
-* The deadline for idea submission is January 17, 2017.
-* Your project should have proper documentation. Consider making a detailed README.md. A boiler plate for a project is recommended.
-* After your project idea has been approved you can go ahead and create a repository for your project and list all the project developments under Issues.
-* Your project should have issues which are solved by the participants.Your project will receive the same grading as ones for issue solving . When working with your project make sure it follows proper software design principles ie universal coding patterns like PEP8 foe python and comments.
-
-
-Rules for old projects
----------------------
-
-* Submit your project ideas [here](https://github.com/fossiiita/Projects/issues) with your project name as the issue title and put label project.
-* Your project idea should consist of a concise description of the project.
-* Proper documentation for new users is expected.
-* Your project should have at least 5 issues with the label opencode.
-
-General Instructions for projects
---------
-
-* All issues should have label opencode a,b,c.
-* The label a,b,c will be put by the event organizer .
-* All code must be documented
-
 Want to participate
 -----------------
 
@@ -64,7 +36,22 @@ Fill this form and we will keep you posted.
 <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
 <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by<a href="https://www.typeform.com/examples/?utm_campaign=vq7M6d&amp;utm_source=typeform.com-6014802-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a></div>
 
+Have your own idea ?
+--------------------
 
+Have an idea for a projects look into [projects](https://fossiiita.github.io/opencode/projects)
+
+Prizes
+------
+Prizes will be given for (Both Cash as well as goodies):
+1. Top 5 Participants
+2. Participant with most points
+3. Grand prize winner : will be selected from the TOP 5 by the organizers.
+
+You will receive goodies and cash prizes worth 8k
+
+Only for iiita students:
+Next year foss selections will be from this event. A minimum of 50 points to apply.
 Scoring Criteria
 ----------------------
 
@@ -78,7 +65,7 @@ The grading will be done before the pr is send.
 
 Eg multiple pr to awesome lists and readme will be cat D
 
-Want to be an organizer
+Want to be an [Mentor or Organizer](https://fossiiita.github.io/opencode/organisers)
 ------
 <!-- Change the width and height values to suit you best -->
 <div class="typeform-widget" data-url="https://himanshub16.typeform.com/to/vq7M6d" data-text="OpenCode" style="width:100%;height:500px;"></div>
@@ -86,14 +73,14 @@ Want to be an organizer
 <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by<a href="https://www.typeform.com/examples/?utm_campaign=vq7M6d&amp;utm_source=typeform.com-6014802-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a></div>
 
 * If form not avaliable,Just send a pr with your details and we will look into it.
-* Organisers can participate in the event provided they dont rate the issues they solve.
-
-Sponsor us
--------
-If you wish to sponsor the event contact [Gautham](https://facebook.com/gauthamzz)
+* Organizers can participate in the event provided they don't rate the issues they solve.
 
 Contact Us
 ---------------------------
+If you wish to sponsor the event or have any queries contact [Gautham](https://facebook.com/gauthamzz)
+
 - Gautham Santhosh
  * [Facebook](https://facebook.com/gauthamzz)
  * [GitHub](https://github.com/gauthamzz)
+
+List of other organizers can be found [here.](https://fossiiita.github.io/opencode/organisers)
