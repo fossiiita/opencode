@@ -53,14 +53,14 @@ Prizes
 ------
 Prizes will be given for (Both Cash as well as goodies):
 
-1. Top 5 Participants
-2. Participant with most points
-3. Grand prize winner : will be selected from the TOP 5 by the organizers.
+1. Top 5 Participants based on points: Will receive T Shirts, Certificates and cash prize of .5k
+2. Participant with most points : Will receive Tshirt, Certficates and cash prize of 1k
+3. Grand prize winner : Will recive Cash prize of 2.5 k (Will be selected from the TOP 5 by the organizers), Tshirt and Certficates.
+4. Everyone will receive digital participation certificate.
+5. Top 20 participants till 2 Feb will receive workshops by [aparoksha](https://aparoksha.iiita.ac.in/) for a exclusive prize of Rs. 999/-.
+6. Amazon gift voucher worth  Rs 300/- for one lucky person who puts the opencode poster as his facebook cover pic or tweets during the event. 
 
-You will receive goodies and cash prizes worth 8k
-
-Only for IIITA students:
-Next year foss selections will be from this event. A minimum of 50 points to apply.
+> Only for IIITA students: Next year foss selections will be from this event. A minimum of 50 points to apply.
 
 Scoring Criteria
 ----------------------
