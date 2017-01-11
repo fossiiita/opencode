@@ -31,7 +31,7 @@ How this works
 
 * Participants are required to solve the issues and earn points.
 * The participants with the maximum points at the end of the event (17 February) will be adjudged the winner. 
-* Projects registered for the event can be solved to earn points. All of them can be found at [foss iiita organisation](https://github.com/fossiiita) with label opencode.
+* Projects registered for the event can be solved to earn points. All of them can be found at [foss iiita organisation](https://github.com/fossiiita) with label [opencode](https://github.com/search?l=&q=label%3Aopencode&ref=advsearch&type=Issues&utf8=%E2%9C%93).
 
 
 Prizes
