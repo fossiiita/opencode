@@ -43,7 +43,7 @@ Prizes (Cash prizes as well as Goodies) will be awarded in the following categor
 3. Participant with most points : T-shirt, Certficates and cash prize of 1k
 4. Every participant will be awarded a digital participation certificate.
 5. Top 20 participants as of 2 Feb can attend the workshops conducted by [aparoksha](https://aparoksha.iiita.ac.in/) at an exclusive fee of Rs. 999/-.
-6. Amazon gift voucher worth Rs. 300/- will be presented to one lucky participant who puts the OpenCode poster as his facebook cover picture or tweets during the event. 
+6. Amazon gift voucher worth Rs. 300/- will be presented to one lucky participant who puts the OpenCode poster as his facebook or tweets during the event. 
 
 > Only for IIITA students: Foss selection for next year will be from this event. A minimum of 50 points is required to apply.
 
