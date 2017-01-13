@@ -15,7 +15,7 @@ Timeline
 2. 17 Jan 2017: Event starts
 3. 17 Feb 2017: Event ends
 4. 20 Feb 2017: Final declaration of winners
-
+<marquee>hello</marquee>
 
 [Connect with us on Gitter](https://gitter.im/opencode2017)
 
