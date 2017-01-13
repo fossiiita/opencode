@@ -26,6 +26,11 @@ Timeline
 
 <!-- ![alt text](https://fossiiita.github.io/opencode/Poster.jpg) -->
 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qkt9vMKYHAM
+" target="_blank"><img src="http://img.youtube.com/vi/qkt9vMKYHAM/1.jpg" 
+alt="IMAGE ALT TEXT HERE" width="1280" height="720" border="10" /></a>
+
 How this works
 -----------
 
