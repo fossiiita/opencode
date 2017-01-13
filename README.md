@@ -9,11 +9,8 @@ P.S : There are no institute restrictions.
 
 Timeline
 --------
-a.png
-1. 01 Jan 2017: Project submissions start
-2. 17 Jan 2017: Event starts
-3. 17 Feb 2017: Event ends
-4. 20 Feb 2017: Final declaration of winners
+![alt text](a.png)
+
 
 [Connect with us on Gitter](https://gitter.im/opencode2017)
 
