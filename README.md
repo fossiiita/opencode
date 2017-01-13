@@ -9,7 +9,7 @@ P.S : There are no institute restrictions.
 
 Timeline
 --------
-![alt text](a.png)
+![alt text](timeline.png)
 
 
 [Connect with us on Gitter](https://gitter.im/opencode2017)
