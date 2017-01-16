@@ -7,6 +7,13 @@ Who can participate?
 Any undergraduate or postgraduate student.
 P.S : There are no institute restrictions.
 
+Projects under the event you can contribute to with label [opencode](https://github.com/search?l=&q=label%3Aopencode&ref=advsearch&type=Issues&utf8=%E2%9C%93)
+---------------
+
+- [OpenCodeCollab](https://github.com/fossiiita/opencodecollab)
+- [Humble Fool Cup Website](https://github.com/fossiiita/humblefoolcup)
+- [Django Event platofrm](https://github.com/gauthamzz/Django-EventPlatform)
+
 Timeline
 --------
 ![alt text](timeline.png)
