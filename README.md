@@ -21,6 +21,7 @@ Timeline
 
 [Connect with us on Gitter](https://gitter.im/opencode2017)
 
+[Who all are participating](https://fossiiita.github.io/opencodecollab/)
 
 ![alt text](Logo.png)
 
@@ -80,7 +81,7 @@ The grading will be done before the pr is sent.
 
 For example, multiple pr to awesome lists and readme will fall under category D.
 
-Want to be a [Mentor or Organizer](https://fossiiita.github.io/opencode/organisers)?
+Want to be a [Mentor or Organizer](https://fossiiita.github.io/opencodecollab)?
 ------
 <!-- Change the width and height values to suit you best -->
 <div class="typeform-widget" data-url="https://himanshub16.typeform.com/to/vq7M6d" data-text="OpenCode" style="width:100%;height:500px;"></div>
@@ -100,6 +101,6 @@ Contact [Gautham](https://facebook.com/gauthamzz) or [Connect on Gitter](https:/
  * [Facebook](https://facebook.com/gauthamzz)
  * [GitHub](https://github.com/gauthamzz)
 
-List of all the organizers can be found [here](https://fossiiita.github.io/opencode/organisers).
+List of all the organizers can be found [here](https://fossiiita.github.io/opencodecollab).
 
 [Frequently Asked Questions](https://fossiiita.github.io/opencode/faq)
