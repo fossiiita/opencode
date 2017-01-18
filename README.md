@@ -1,4 +1,6 @@
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">
+
 [![Join the chat at https://gitter.im/Cloud-CV/EvalAI](https://badges.gitter.im/opencode2017.svg)](https://gitter.im/opencode2017?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
@@ -55,9 +57,9 @@ Only for IIITA students: Foss selection for next year will be from this event. A
 Want to participate?
 -----------------
 
-Add yourself to Student section in [Opencodecolab](http://fossiiita.github.io/opencodecollab)
+Add yourself to Student section in [opencodecolab](https://github.com/fossiiita/opencodecollab)
 
-For more info [click here](https://github.com/fossiiita/opencodecollab#adding-yourselves-to-student-section)
+<a class="waves-effect waves-light btn-large" href="https://github.com/fossiiita/opencodecollab#adding-yourselves-to-student-section">For More</a>
 
 
 
